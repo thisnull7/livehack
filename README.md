@@ -35,10 +35,15 @@ Three fallback methods ensure connectivity. Cloudflare Tunnel downloads the bina
 
 ## File Structure
 livehack/
+
 ├── live.py # Main tool script
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # This documentation
+
 ├── LICENSE # MIT License
+
 └── livecam_captures/ # Auto-generated folder with photos, audio, metadata.json
 
 ## Troubleshooting
